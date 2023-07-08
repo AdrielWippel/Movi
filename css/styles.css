@@ -94,22 +94,22 @@
   
   .carousel-control-prev,
   .carousel-control-next {
-    opacity: 0.7;
+    opacity: 0.6;
   }
   
   .carousel-control-prev i,
   .carousel-control-next i {
-    color: #111;
-    font-size: 3em;
+    color: #338ef7;
+    font-size: 4em;
   }
   
   .carousel-indicators [data-bs-target] {
-    background-color: #222;
+    background-color: #98dbfa;
     opacity: 0.8;
   }
   
   .carousel-indicators .active {
-    background-color: #000;
+    background-color: #1661b8;
   }
   
   @media (min-width: 768px) {
@@ -269,13 +269,13 @@
   }
   
   #social-icons i {
-    margin-right: 1em;
-    font-size: 1.5em;
+    margin-right: 0.5em;
+    font-size: 1.7em;
     cursor: pointer;
   }
   
   #social-icons i:hover {
-    color: #7a7a7a;
+    color: #b9ffd9;
   }
   
   /* FOOTER DETAILS */
