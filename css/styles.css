@@ -3,11 +3,11 @@
   }
   
   .bg-primary-color {
-    background-color: #fff;
+    background-color: #d9f4fc;
   }
   
   .bg-secondary-color {
-    background-color: #ece8e2;
+    background-color: #d3ffe9;
   }
   
   .bg-dark-color {
@@ -16,6 +16,10 @@
   
   .primary-color {
     color: #050505;
+  }
+
+  .icon-color {
+    color: rgb(79, 167, 62);
   }
   
   .secondary-color {
